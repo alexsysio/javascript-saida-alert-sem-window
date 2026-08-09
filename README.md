@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### JavaScript saida usando innerHTML
+### JavaScript saida usando window.alert() sem a palavra chave window
 
 <a href="https://github.com/user-attachments/assets/123b73d6-71ea-44de-bddb-e279c1788d37">
   <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/123b73d6-71ea-44de-bddb-e279c1788d37" />
