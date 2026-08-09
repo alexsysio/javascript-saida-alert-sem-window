@@ -34,5 +34,7 @@
 ### Usar o document.write() após o carregamento de um documento HTML será deletado todo o HTML existente:
 ### O método document.write() deve ser usado apenas para testes.
 
+### Você pode pular a palavra-chave.window
 
+### No JavaScript, o objeto janela é o objeto de escopo global. Isso significa que variáveis, propriedades e métodos, por padrão, pertencem ao objeto janela. Isso também significa que especificar a palavra-chave é opcional:window
 
