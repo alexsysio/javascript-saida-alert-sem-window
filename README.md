@@ -18,21 +18,14 @@
 ### Possibilidades de Exibição em JavaScript
 ### O JavaScript pode "exibir" dados de diferentes maneiras:
 
-### Escrever em um elemento HTML, usando ou .innerHTMLinnerText
+&nbsp;
+
+### Escrever em um elemento HTML, usando ou .innerHTML innerText
 ### Escrevendo na saída HTML usando .document.write()
 ### Escrevendo em uma caixa de alerta, usando .window.alert()
 ### Escrevendo no console do navegador, usando o arquivo .console.log()
-### Usando innerHTML
-### Para acessar um elemento HTML, você pode usar o método. document.getElementById(id)
 
-### Use o atributo para identificar o elemento HTML.id
-
-### Depois, use a propriedade para alterar o conteúdo HTML do elemento HTML:innerHTML
-
-### Usando document.write()
-### Para fins de teste, é conveniente usar:document.write()
-### Usar o document.write() após o carregamento de um documento HTML será deletado todo o HTML existente:
-### O método document.write() deve ser usado apenas para testes.
+&nbsp;
 
 ### Você pode pular a palavra-chave.window
 
