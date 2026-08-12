@@ -1,4 +1,4 @@
-### HTML JavaScript | JavaScript saida usando window.alert() sem a palavra chave window
+### JavaScript saida usando window.alert() sem a palavra chave window
 
 <a href="https://github.com/user-attachments/assets/d3d618a1-d03a-4d29-9615-e9bd9fe0570d">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/d3d618a1-d03a-4d29-9615-e9bd9fe0570d" />
