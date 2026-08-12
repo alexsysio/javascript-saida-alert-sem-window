@@ -1,15 +1,15 @@
 ### HTML JavaScript | JavaScript saida usando window.alert() sem a palavra chave window
 
-<a href="https://github.com/user-attachments/assets/61af6a76-2425-41df-9bcf-05bd8bf4e2a9">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/61af6a76-2425-41df-9bcf-05bd8bf4e2a9" />
+<a href="https://github.com/user-attachments/assets/d3d618a1-d03a-4d29-9615-e9bd9fe0570d">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/d3d618a1-d03a-4d29-9615-e9bd9fe0570d" />
 </a>
 
 &nbsp;
 
 ### JavaScript saida usando window.alert() sem a palavra chave window
 
-<a href="https://github.com/user-attachments/assets/123b73d6-71ea-44de-bddb-e279c1788d37">
-  <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/123b73d6-71ea-44de-bddb-e279c1788d37" />
+<a href="https://github.com/user-attachments/assets/181a6a3a-1026-4826-8aff-ed40ca9221dd">
+  <img width="100%" alt="window-alert-sem-window" src="https://github.com/user-attachments/assets/181a6a3a-1026-4826-8aff-ed40ca9221dd" />
 </a>
 
 &nbsp;
